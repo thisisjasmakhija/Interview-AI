@@ -26,7 +26,7 @@ from nltk nltk.download('punkt')
 
 Time Zone: Set to IST (Asia/Kolkata) via pytz.
 Work Hours: 9 AM–4 PM IST (adjustable via st and end_st).
-Recruiter Email: Define rec_mail (e.g., "recruiter@example.com") in the script.
+Recruiter Email: Define rec_mail (e.g., "test@gmail.com") in the script.
 
 
 # Contributing
